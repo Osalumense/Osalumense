@@ -10,12 +10,23 @@ A Software Developer based in Abuja, Nigeria ,
 
 <details>
   <summary> 
-    ### Github Trophies
+    Github Trophies
   </summary>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=3">
   </p>
 <details>
+  
+ ### 📫 You can also find me here:  
+<a href="https://www.linkedin.com/in/akugbe-stephen/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+<a href="https://www.instagram.com/_a_stephen/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+<a href="mailto:akugbestephen3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 
 
