@@ -21,8 +21,8 @@ A Software Developer based in Abuja, Nigeria ,
   <summary> 
     WakaTime Dashboard
   </summary>
-  <p align="center">
-    <img src="https://wakatime.com/share/@6051b920-3cad-437c-94cc-2ca6d2d3b599/142e2a51-9eeb-41b5-b94d-205ea5eedac2.svg" height="400">
+  <p>
+    <img src="https://wakatime.com/share/@6051b920-3cad-437c-94cc-2ca6d2d3b599/142e2a51-9eeb-41b5-b94d-205ea5eedac2.svg" height="350" width="450">
   </p>
 </details>
   
