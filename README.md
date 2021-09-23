@@ -1,5 +1,5 @@
-### Hi, I am Stephen ✨, 
-A Software Developer based in Abuja, Nigeria :nigeria: .
+### Hi, I am Stephen ✨ 	:man_technologist:, 
+> A Software Developer based in Abuja, Nigeria :nigeria: .
 > I am always eager to learn new technologies :computer: and develop new projects.
 
   <p align="center">
