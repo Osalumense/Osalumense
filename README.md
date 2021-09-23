@@ -34,9 +34,6 @@ A Software Developer based in Abuja, Nigeria ,
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <a href="mailto:akugbestephen3@gmail.com" target="_blank">
-  <img src="">
-</a>
-<a href="mailto:akugbestephen3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
  <a href="https://dev.to/osalumense" target="_blank">
