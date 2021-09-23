@@ -1,9 +1,6 @@
 ### Hi, I am Stephen ✨, 
 A Software Developer based in Abuja, Nigeria ,
 
-### My Github Stats 
-- - - -
-
   <p align="center">
     <a href="https://github.com/Osalumense/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/Osalumense/github-readme-stats?color=0088ff" />
@@ -14,6 +11,9 @@ A Software Developer based in Abuja, Nigeria ,
     <br />
     <br />
   </p>
+
+### My Github Stats 
+- - - -
   
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osalumense&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Osalumense)
 
