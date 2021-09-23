@@ -5,9 +5,6 @@ A Software Developer based in Abuja, Nigeria ,
 - - - -
 
   <p align="center">
-    <a href="https://codecov.io/gh/Osalumense/github-readme-stats">
-      <img src="https://codecov.io/gh/Osalumense/github-readme-stats/branch/main/graph/badge.svg" />
-    </a>
     <a href="https://github.com/Osalumense/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/Osalumense/github-readme-stats?color=0088ff" />
     </a>
