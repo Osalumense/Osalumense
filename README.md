@@ -3,9 +3,9 @@ A Software Developer based in Abuja, Nigeria ,
 
 ### My Github Stats 
 
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osalumense&count_private=true&show_icons=true)](https://github.com/Osalumense)
+[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osalumense&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Osalumense)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osalumense&langs_count=8&layout=compact)](https://github.com/Osalumense)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osalumense&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Osalumense)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=3)
 
