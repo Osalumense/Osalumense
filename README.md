@@ -16,8 +16,17 @@ A Software Developer based in Abuja, Nigeria ,
     <img src="https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=3">
   </p>
 </details>
+
+<details>
+  <summary> 
+    WakaTime Dashboard
+  </summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=steavean">
+  </p>
+</details>
   
- ### 📫 You can also find me here:  
+ ### 📫 You can reach me here:  
 <a href="https://www.linkedin.com/in/akugbe-stephen/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -25,7 +34,17 @@ A Software Developer based in Abuja, Nigeria ,
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <a href="mailto:akugbestephen3@gmail.com" target="_blank">
+  <img src="">
+</a>
+<a href="mailto:akugbestephen3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+ <a href="https://dev.to/osalumense" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+ </a>
+ 
+ <a href="https://twitter.com/Itz_Steavean" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
   
 
