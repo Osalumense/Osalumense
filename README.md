@@ -9,7 +9,9 @@ A Software Developer based in Abuja, Nigeria ,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osalumense&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Osalumense)
 
 <details>
-  <summary>Github Trophies</summary>
+  <summary> 
+    ### Github Trophies
+  </summary>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=3">
   </p>
