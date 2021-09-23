@@ -22,7 +22,7 @@ A Software Developer based in Abuja, Nigeria ,
     WakaTime Dashboard
   </summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=steavean">
+    <img src="https://wakatime.com/share/@6051b920-3cad-437c-94cc-2ca6d2d3b599/142e2a51-9eeb-41b5-b94d-205ea5eedac2.svg">
   </p>
 </details>
   
