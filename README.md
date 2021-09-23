@@ -12,6 +12,9 @@
     <br />
     <br />
   </p>
+  
+  ## Menu
+  [📱 Contact](#-You-can-reach-me-here)
 
 ### My Github Stats 
 - - - -
