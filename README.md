@@ -1,5 +1,6 @@
 ### Hi, I am Stephen ✨, 
-A Software Developer based in Abuja, Nigeria ,
+A Software Developer based in Abuja, Nigeria :nigeria: .
+> I am always eager to learn new technologies :computer: and develop new projects.
 
   <p align="center">
     <a href="https://github.com/Osalumense/github-readme-stats/issues">
