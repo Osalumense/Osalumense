@@ -14,7 +14,10 @@
   </p>
   
   ## Menu
-  [📱 Contact](#-You-can-reach-me-here)
+  - [:stopwatch: Github Stats](#-My-Github-Stats)
+  - [Github Trophies](#-Github-Trophies)
+  - [:stopwatch: Wakatime Stats](#-Wakatime-Stats)
+  - [📱 Contact](#-You-can-reach-me-here)
 
 ### My Github Stats 
 - - - -
@@ -23,6 +26,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osalumense&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Osalumense)
 
+## Github Trophies
+> Expand to see my Github trophies 
 <details>
   <summary> 
     Github Trophies
@@ -32,6 +37,8 @@
   </p>
 </details>
 
+## Wakatime Stats
+> Expand to see details
 <details>
   <summary> 
     WakaTime Dashboard
