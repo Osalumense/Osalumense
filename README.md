@@ -13,7 +13,7 @@ A Software Developer based in Abuja, Nigeria ,
     Github Trophies
   </summary>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=3">
+    <img src="https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=4">
   </p>
 </details>
 
@@ -22,7 +22,7 @@ A Software Developer based in Abuja, Nigeria ,
     WakaTime Dashboard
   </summary>
   <p>
-    <img src="https://wakatime.com/share/@steavean/8ba047a2-5f4f-488b-bcec-04dfd6ea44ce.svg" height="400" width="550">
+    <img src="https://wakatime.com/share/@steavean/8ba047a2-5f4f-488b-bcec-04dfd6ea44ce.svg" height="400" width="600">
   </p>
 </details>
   
