@@ -15,7 +15,7 @@ A Software Developer based in Abuja, Nigeria ,
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=3">
   </p>
-<details>
+</details>
   
  ### 📫 You can also find me here:  
 <a href="https://www.linkedin.com/in/akugbe-stephen/" target="_blank">
@@ -26,7 +26,9 @@ A Software Developer based in Abuja, Nigeria ,
   </a>
 <a href="mailto:akugbestephen3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ </a>
+  
+
 
 
 
