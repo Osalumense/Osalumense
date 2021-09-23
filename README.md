@@ -5,9 +5,6 @@ A Software Developer based in Abuja, Nigeria ,
 - - - -
 
   <p align="center">
-    <a href="https://github.com/Osalumense/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/Osalumense/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
     <a href="https://codecov.io/gh/Osalumense/github-readme-stats">
       <img src="https://codecov.io/gh/Osalumense/github-readme-stats/branch/main/graph/badge.svg" />
     </a>
@@ -20,7 +17,7 @@ A Software Developer based in Abuja, Nigeria ,
     <br />
     <br />
   </p>
-  - - - -
+  
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osalumense&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Osalumense)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osalumense&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Osalumense)
