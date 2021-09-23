@@ -14,9 +14,9 @@
   </p>
   
   ## Menu
-  - [Github Stats](#-My-Github-Stats)
-  - [Github Trophies](#-Github-Trophies)
-  - [:stopwatch: Wakatime Stats](#-Wakatime-stats)
+  - [Github Stats](#my-github-stats)
+  - [Github Trophies](#github-trophies)
+  - [:stopwatch: Wakatime Stats](#wakatime-stats)
   - [📱 Contact](#-You-can-reach-me-here)
 
 ### My Github Stats 
