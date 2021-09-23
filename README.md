@@ -6,7 +6,7 @@ A Software Developer based in Abuja, Nigeria ,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osalumense)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=3)
 
 
 
