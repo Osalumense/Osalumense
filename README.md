@@ -14,11 +14,15 @@
   </p>
   
   ## Menu
+  - [Technology Stack](#technologies)
   - [Github Stats](#my-github-stats)
   - [Github Trophies](#github-trophies)
   - [:stopwatch: Wakatime Stats](#wakatime-stats)
   - [📱 Contact](#-You-can-reach-me-here)
 
+## Technologies
+- - - -
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 ### My Github Stats 
 - - - -
   
