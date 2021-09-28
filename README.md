@@ -92,7 +92,7 @@
  </a>
  
  - - - - 
- [Back to top](#menu)
+ <a href="#menu" align="right">Back to top]</a>
   
 
 
