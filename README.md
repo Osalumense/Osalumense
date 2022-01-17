@@ -1,5 +1,5 @@
 ### Hi, I am Stephen ✨ 	:man_technologist:, 
-> A Software Developer (with expertise in the frontend) based in Abuja, Nigeria :nigeria: . <br />
+> A Web Developer (with expertise in the frontend) based in Abuja, Nigeria :nigeria: . <br />
 > I am always eager to learn new technologies :computer: and develop new projects.
 
   <p align="center">
