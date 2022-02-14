@@ -61,7 +61,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osalumense&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Osalumense)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Osalumense&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Styephen's streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Osalumense&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Styephen's streak" /></p>
   
 ## Github Trophies
 > #### Expand to see my Github trophies 
