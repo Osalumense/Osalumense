@@ -59,10 +59,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Osalumense" alt="Styephen's streak" /></p>
 
 ## Github Trophies
-> ### Expand to see my Github trophies 
+> #### Expand to see my Github trophies 
 <details>
   <summary> 
-    Github Trophies
+    #### Github Trophies
   </summary>
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=4">
