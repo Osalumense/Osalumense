@@ -2,7 +2,7 @@
 <body id="top">
   
   
-### Hi, I am Stephen ✨ 	:man_technologist:, <p ></p>
+### Hi, I am Stephen ✨ 	:man_technologist:, 
 
 > <p > A Full stack Web Developer based in Abuja, Nigeria :nigeria: . <br />
 > I am always eager to learn new technologies :computer: and develop new projects. </p>
@@ -67,7 +67,7 @@
 > #### Expand to see my Github trophies 
 <details>
   <summary> 
-    #### Github Trophies
+    Github Trophies
   </summary>
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=4">
@@ -75,7 +75,7 @@
 </details>
 
 ## Wakatime Stats
-> Expand to see details
+> #### Expand to see details of my daily coding activities from my Code Editor
 <details>
   <summary> 
     WakaTime Dashboard
