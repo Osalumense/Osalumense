@@ -1,5 +1,5 @@
-<p id="top"></p>
-### Hi, I am Stephen ✨ 	:man_technologist:, 
+
+### Hi, I am Stephen ✨ 	:man_technologist:, <p id="top"></p>
 
 > <p > A Full stack Web Developer based in Abuja, Nigeria :nigeria: . <br />
 > I am always eager to learn new technologies :computer: and develop new projects. </p>
