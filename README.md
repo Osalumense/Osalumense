@@ -1,8 +1,9 @@
 ### Hi, I am Stephen ✨ 	:man_technologist:, 
-> A Web Developer (with expertise in the frontend) based in Abuja, Nigeria :nigeria: . <br />
+
+> A Full stack Web Developer based in Abuja, Nigeria :nigeria: . <br />
 > I am always eager to learn new technologies :computer: and develop new projects.
 
-  <p align="center">
+  <p align="center" id="help">
     <a href="https://github.com/Osalumense/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/Osalumense/github-readme-stats?color=0088ff" />
     </a>
@@ -100,7 +101,7 @@
  
  - - - - 
  <p  align="right">
-  <a href="#Hi, I am Stephen ✨ 	:man_technologist:,">Back to top</a>
+  <a href="#help">Back to top</a>
  </p>
   
 
