@@ -77,7 +77,7 @@
 ## Wakatime Stats
 > #### WakaTime Dashboard
   <p>
-    <img src="https://wakatime.com/share/@steavean/8ba047a2-5f4f-488b-bcec-04dfd6ea44ce.svg" height="400" width="600">
+    <img src="https://wakatime.com/share/@steavean/8ba047a2-5f4f-488b-bcec-04dfd6ea44ce.svg" height="200" width="400">
   </p>
   
  ### 📫 You can reach me here:  
