@@ -75,15 +75,10 @@
 </details>
 
 ## Wakatime Stats
-> #### Expand to see details of my daily coding activities from my Code Editor
-<details>
-  <summary> 
-    WakaTime Dashboard
-  </summary>
+> #### WakaTime Dashboard
   <p>
     <img src="https://wakatime.com/share/@steavean/8ba047a2-5f4f-488b-bcec-04dfd6ea44ce.svg" height="400" width="600">
   </p>
-</details>
   
  ### 📫 You can reach me here:  
 <a href="https://www.linkedin.com/in/akugbe-stephen/" target="_blank">
