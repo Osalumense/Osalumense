@@ -1,10 +1,9 @@
 
-<body id="top">
-  
+<body id="top">  
   
 ### Hi, I am Stephen ✨ 	:man_technologist:, 
 
-> <p > A Full stack Web Developer based in Abuja, Nigeria :nigeria: . <br />
+> <p > A Full stack Developer (backend heavy) based in Abuja, Nigeria :nigeria: . <br />
 > I am always eager to learn new technologies :computer: and develop new projects. </p>
 
   <p align="center">
@@ -17,13 +16,7 @@
     <br />
     <br />
   </p>
-  
-  ## Menu
-  - [Technology Stack](#technologies)
-  - [Github Stats](#my-github-stats)
-  - [Github Trophies](#github-trophies)
-  - [:stopwatch: Wakatime Stats](#wakatime-stats)
-  - [📱 Contact](#-You-can-reach-me-here)
+
 
 ### Technologies
 - - - -
@@ -64,21 +57,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Osalumense&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Styephen's streak" /></p>
   
 ## Github Trophies
-> #### Expand to see my Github trophies 
-<details>
-  <summary> 
-    Github Trophies
-  </summary>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=4">
-  </p>
-</details>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=5">
 
 ## Wakatime Stats
-> #### WakaTime Dashboard
-  <p>
+ <p>
     <img src="https://wakatime.com/share/@steavean/8ba047a2-5f4f-488b-bcec-04dfd6ea44ce.svg" height="320" width="420">
-  </p>
+ </p> 
   
  ### 📫 You can reach me here:  
 <a href="https://www.linkedin.com/in/akugbe-stephen/" target="_blank">
@@ -98,11 +83,7 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
  
- - - - - 
- <p  align="right">
-  <a href="#top">Back to top</a>
- </p>
-  
+ - - - -   
   
 </body>
   
