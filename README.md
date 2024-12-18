@@ -3,7 +3,7 @@
   
 ### Hi, I am Stephen ✨ 	:man_technologist:, 
 
-> <p > A Full stack Developer (backend heavy) based in Abuja, Nigeria :nigeria: . <br />
+> <p > A Full stack Developer based in Paris, France :france: . <br />
 > I am always eager to learn new technologies :computer: and develop new projects. </p>
 
   <p align="center">
