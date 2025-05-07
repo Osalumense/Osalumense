@@ -102,6 +102,10 @@ Check out my latest posts here: <a href="https://dev.to/osalumense">dev.to/osalu
 <p>
   <img src="https://wakatime.com/share/@steavean/8ba047a2-5f4f-488b-bcec-04dfd6ea44ce.svg" height="320" width="480" />
 </p>
+<p>
+  [Image](https://github.com/user-attachments/assets/4b5044d7-f86f-4a86-9892-4cc0795957ba)
+</p>
+
 
 ### 📫 Reach Me  
 ---
