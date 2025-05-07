@@ -1,5 +1,17 @@
 <body id="top">  
 
+<p align="center">
+  <a href="https://github.com/Osalumense/github-readme-stats/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/Osalumense/github-readme-stats?color=0088ff" />
+  </a>
+  <a href="https://github.com/Osalumense/github-readme-stats/pulls">
+    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Osalumense/github-readme-stats?color=0088ff" />
+  </a>
+  <a>
+   <img alt="Wakatime Stats" src="https://wakatime.com/badge/user/6051b920-3cad-437c-94cc-2ca6d2d3b599.svg" />
+  </a>
+</p>
+
 ### Hi, I'm Stephen — an enthusiastic Full Stack Developer ✨
 > I’m always eager to learn and build new solutions that make a difference.
 
@@ -20,14 +32,6 @@ Whether it's backend development, architecture decisions, or tips on building sc
 
 Check out my latest posts here: <a href="https://dev.to/osalumense">dev.to/osalumense</a>
 
-<p align="center">
-  <a href="https://github.com/Osalumense/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/Osalumense/github-readme-stats?color=0088ff" />
-  </a>
-  <a href="https://github.com/Osalumense/github-readme-stats/pulls">
-    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Osalumense/github-readme-stats?color=0088ff" />
-  </a>
-</p>
 
 ### Technologies I Work With  
 ---
