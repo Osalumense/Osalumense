@@ -1,6 +1,7 @@
 <body id="top">  
 
 ### Hi, I'm Stephen — an enthusiastic Full Stack Developer ✨
+> I’m always eager to learn and build new solutions that make a difference.
 
 Joined GitHub in 2018
 
@@ -13,8 +14,6 @@ Since then, I have:
 - Accumulated over 100 forks across repositories
 - Continuously explored new technologies  
 
-> I’m always eager to learn and build new solutions that make a difference.
->
 
 I regularly share insights, tutorials, and lessons learned from real-world projects on dev.to. 
 Whether it's backend development, architecture decisions, or tips on building scalable systems, I enjoy documenting what I learn and helping others grow as developers.
