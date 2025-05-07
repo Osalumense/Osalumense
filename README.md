@@ -6,8 +6,12 @@ Joined GitHub in 2018
 
 Since then, I have:
 * Pushed over 718 commits  
-* Built numerous full-stack projects  
-* Continuously explored new technologies 💡  
+* Built numerous full-stack projects
+* Submitted over 50 pull requests
+- Created over 90 repositories
+- Received over 150 stars across my projects
+- Accumulated over 100 forks across repositories
+* Continuously explored new technologies  
 
 > I’m always eager to learn and build new solutions that make a difference.  
 
@@ -39,10 +43,10 @@ Since then, I have:
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
@@ -54,21 +58,21 @@ Since then, I have:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osalumense&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/Osalumense)
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Osalumense&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Stephen's GitHub streak" />
 </p>
 
 ### GitHub Trophies  
 ---
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=Osalumense&theme=algolia&column=5" />
 </p>
 
 ### Wakatime Stats  
 ---
 
-<p align="center">
+<p>
   <img src="https://wakatime.com/share/@steavean/8ba047a2-5f4f-488b-bcec-04dfd6ea44ce.svg" height="320" width="420" />
 </p>
 
