@@ -5,15 +5,21 @@
 Joined GitHub in 2018
 
 Since then, I have:
-* Pushed over 718 commits  
-* Built numerous full-stack projects
-* Submitted over 50 pull requests
+- Pushed over 718 commits  
+- Built numerous full-stack projects
+- Submitted over 50 pull requests
 - Created over 90 repositories
 - Received over 150 stars across my projects
 - Accumulated over 100 forks across repositories
-* Continuously explored new technologies  
+- Continuously explored new technologies  
 
-> I’m always eager to learn and build new solutions that make a difference.  
+> I’m always eager to learn and build new solutions that make a difference.
+>
+
+I regularly share insights, tutorials, and lessons learned from real-world projects on dev.to. 
+Whether it's backend development, architecture decisions, or tips on building scalable systems, I enjoy documenting what I learn and helping others grow as developers.
+
+Check out my latest posts here: <a href="https://dev.to/osalumense">dev.to/osalumense</a>
 
 <p align="center">
   <a href="https://github.com/Osalumense/github-readme-stats/issues">
