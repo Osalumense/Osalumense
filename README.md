@@ -18,7 +18,7 @@
 Joined GitHub in 2018
 
 Since then, I have:
-- Pushed over 718 commits  
+- Pushed 800+ commits  
 - Built numerous full-stack projects
 - Submitted over 10 pull requests
 - Created over 90 repositories
