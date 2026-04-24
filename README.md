@@ -56,7 +56,7 @@ Architected end-to-end with the CTO and CEO. The system ingests events from all 
 ```
 Backend          Node.js · TypeScript · Python · FastAPI · NestJS · Express.js · PHP · Laravel
 Frontend         React · Next.js · Vue · Nuxt
-Cloud            GCP (Cloud Run, Cloud SQL, Logging, Monitoring) · AWS (Lambda, ECS, SNS, SES) · Docker
+Cloud            GCP (Cloud Run, Cloud SQL, Logging, Monitoring) · AWS (Lambda, ECS, SNS, SES) · Azure · Docker
 Data             PostgreSQL · MySQL · MongoDB · Redis (cache · queues · jobs)
 Observability    Grafana · Prometheus · CloudWatch · GCP Cloud Monitoring
 AI               LLM integration · semantic embeddings · async inference pipelines
@@ -76,8 +76,8 @@ AI tools         Cursor · Claude Code · Codex
 | Cloud messaging | AWS SNS · AWS SES · Azure ACS · SendGrid |
 | Calendar APIs | Google Calendar · Outlook |
 | Auth | Google OAuth2 · Facebook OAuth2 · Clerk |
-| AI APIs | Google Gemini · AI inference APIs |
-| Email / marketing | Postmark · Loops |
+| AI APIs | Google Gemini · Grok · OpenAI · AI inference APIs |
+| Email / marketing | Postmark · Loops · Sendgrid |
  
 ---
  
