@@ -38,7 +38,7 @@ Not prototypes. Production.
  
 Built entirely from 0 → production as Founding Engineer. The system runs a 4-stage LLM pipeline: intent classification, semantic category matching via embeddings (TF-IDF fallback), external search, and async enrichment with 200 parallel workers. Redis handles queues, job state, caching, and rate limiting. Deployed on GCP Cloud Run with full CI/CD, observability, and per-query cost tracking.
  
-**Stack:** Python · FastAPI · asyncio · NestJS · TypeScript · Redis · PostgreSQL · GCP Cloud Run · Docker · GitHub Actions
+**Stack:** Python · FastAPI · asyncio · NestJS ·  · Laravel  · PHP  · TypeScript · Redis · PostgreSQL · GCP Cloud Run · Docker · GitHub Actions
  
 ---
  
@@ -84,8 +84,8 @@ AI tools         Cursor · Claude Code · Codex
 ## Currently
  
 - Building agentic data infrastructure at the intersection of LLMs and real-world business data
-- Improving French (B1 → B2) at Université Paris-Est Créteil
-- Open to founding engineer and senior backend roles in Paris or remote
+- Expanding my knowledge on AI and contributing to open-source projects
+- Open to founding engineer and product engineer roles in Paris or remote
 ---
  
 ## Writing
