@@ -105,6 +105,6 @@ Check out my latest posts here: <a href="https://dev.to/osalumense">dev.to/osalu
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akugbe--stephen-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/akugbe-stephen)
 [![DEV](https://img.shields.io/badge/DEV-osalumense-0A0A0A?style=flat&logo=devdotto)](https://dev.to/osalumense)
-[![Portfolio](https://img.shields.io/badge/Portfolio-stephenakugbe.dev-1A8F7C?style=flat)](https://stephen-portfolio-projects.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-stephenakugbe.dev-1A8F7C?style=flat)](https://stephenakugbe.dev)
 [![Email](https://img.shields.io/badge/Email-akugbestephen3@gmail.com-EA4335?style=flat&logo=gmail)](mailto:akugbestephen3@gmail.com)
 
